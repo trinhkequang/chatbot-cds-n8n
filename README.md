@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Đại học Đại Nam Logo" width="250"/>
+  <img src="logo.png" alt="Đại học Đại Nam Logo" width="250"/>
   
   # 🤖 Chatbot AI với RAG & Workflow Automation
   
@@ -582,4 +582,5 @@ Dự án này được phát hành dưới giấy phép MIT. Xem file [LICENSE](
   
   [⬆️ Về đầu trang](#-chatbot-ai-với-rag--workflow-automation)
   
+
 </div>
