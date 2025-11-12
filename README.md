@@ -246,7 +246,7 @@
 ### Bước 1: Clone Repository
 
 ```bash
-git clone https://github.com/Trinhvhao/n8n-rag-automation-chatbot.git
+https://github.com/trinhkequang/chatbot-cds-n8n
 cd n8n-rag-automation-chatbot
 ```
 
@@ -560,7 +560,6 @@ Dự án này được phát hành dưới giấy phép MIT. Xem file [LICENSE](
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Trinhvhao-181717?style=for-the-badge&logo=github)](https://github.com/Trinhvhao)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dainam.edu.vn)
 
 </div>
@@ -584,3 +583,4 @@ Dự án này được phát hành dưới giấy phép MIT. Xem file [LICENSE](
   
 
 </div>
+
